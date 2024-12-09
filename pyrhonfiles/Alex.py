@@ -1,0 +1,1 @@
+print("Alain le malin")
