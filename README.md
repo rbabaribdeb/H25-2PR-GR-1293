@@ -1,6 +1,5 @@
 # Site web du projet  H25-2PR-GR-1293
-H25-2PR-GR-1293
-
+H25-2PR-GR-129
 ## Initialiser un repository
 ## Configurer .gitignore, liscence MIT
 ## Collaborer à plusieurs dans le meme projet
