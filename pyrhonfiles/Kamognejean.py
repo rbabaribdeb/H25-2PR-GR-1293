@@ -35,6 +35,8 @@ class Parallepipede(Rectangle):
 rectangle1 = Rectangle(12, 5)
 para1 = Parallepipede(16,5,3)
 rectangle2 = Rectangle(7,5,)
+para2 = Parallepipede(8,5,6)
+print(para2.surface())
 print('perimetre du rectandle  : ', rectangle1.perimetre())
 print('Surface du rectangle :', rectangle1.surface())
 print('Volume du parallepipede : ', para1.volume())
