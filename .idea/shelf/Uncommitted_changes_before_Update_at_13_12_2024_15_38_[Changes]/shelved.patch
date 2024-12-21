@@ -1,0 +1,8 @@
+Index: pyrhonfiles/KamogneJean.py
+===================================================================
+diff --git a/pyrhonfiles/KamogneJean.py b/pyrhonfiles/KamogneJean.py
+deleted file mode 100644
+--- a/pyrhonfiles/KamogneJean.py	(revision 428c72bdc7727b2a3d8c3fb3bc1074060e430bea)
++++ /dev/null	(revision 428c72bdc7727b2a3d8c3fb3bc1074060e430bea)
+@@ -1,1 +0,0 @@
+-print('bonjour le monde')
